@@ -25,5 +25,4 @@ cursor cursor_tbs IS
                 return deger;  
                  end loop;               
    END Genel_Buyume;
-/
 
